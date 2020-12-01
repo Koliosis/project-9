@@ -7,3 +7,5 @@ test_dict = {
     'fourth': 4
 }
 
+print(test_dict)
+
